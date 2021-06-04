@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\obj\Debug\EkzamenDBBookShop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\obj\Debug\EkzamenDBBookShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\bin\Debug\EkzamenDBBookShop.exe.config
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\bin\Debug\EkzamenDBBookShop.exe
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\bin\Debug\EkzamenDBBookShop.pdb
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\obj\Debug\EkzamenDBBookShop.exe
+C:\Users\Admin\source\repos\EkzamenDBBookShop\EkzamenDBBookShop\obj\Debug\EkzamenDBBookShop.pdb
